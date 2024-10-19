@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushani Chowdhury</h1>
-<h3 align="center">Mern Stack Developer</h3>
+<h3 align="center">Passionate Problem Solver & Tech Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonchowdhur&label=Profile%20views&color=0e75b6&style=flat" alt="moonchowdhur" /> </p>
 
