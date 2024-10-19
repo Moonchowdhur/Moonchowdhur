@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushani Chowdhury</h1>
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*p_woEiElu55rhn_pJG2Xbw.png"/>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*p_woEiElu55rhn_pJG2Xbw.png" alt="Image" width="400" height="auto">
+</p>
 <h3 align="center">Passionate Problem Solver & Tech Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonchowdhur&label=Profile%20views&color=0e75b6&style=flat" alt="moonchowdhur" /> </p>
