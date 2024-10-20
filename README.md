@@ -3,6 +3,7 @@
   <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="Image" width="600" height="auto">
 </p>
 <h3 align="center">Passionate Problem Solver & Tech Enthusiast.</h3>
+<h3 align="center">Mern Stack Developer || HTML/CSS || JAVASCRIPT || REACT JS || TYPESCRIPT || REDUX || NODE JS || MONGOOSE || EXPRESS JS || TAILWIND || BOOTSTRAP || TYPESCRIPT || REDUX || NEXT JS || MONGOOSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonchowdhur&label=Profile%20views&color=0e75b6&style=flat" alt="moonchowdhur" /> </p>
 
@@ -12,9 +13,7 @@
 
 - 📫 How to reach me **kaushanichowdhury52@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
