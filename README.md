@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushani Chowdhury</h1>
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="Image" width="400" height="auto">
+  <img src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="Image" width="800" height="auto">
 </p>
 <h3 align="center">Passionate Problem Solver & Tech Enthusiast.</h3>
 
